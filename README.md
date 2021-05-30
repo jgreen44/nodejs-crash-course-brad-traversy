@@ -19,3 +19,6 @@ Follow Traversy Media:
 https://www.facebook.com/traversymedia
 https://www.twitter.com/traversymedia
 https://www.instagram.com/traversymedia
+
+npm install [package]: install dependency
+npm install -D [package]: install development dependency
